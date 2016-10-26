@@ -1,6 +1,7 @@
 *.pyc
 *.pyo
 venv
+*.db
 
 # Runtime data
 pids
